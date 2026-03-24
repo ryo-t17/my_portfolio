@@ -123,3 +123,12 @@ h2::after {
 h2:hover::after {
   width: 80%;
 }
+
+.work {
+  cursor: pointer;
+}
+
+.hero h2 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
